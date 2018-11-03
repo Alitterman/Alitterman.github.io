@@ -1,1 +1,3 @@
-# Hello world,I am Alitterman
+# Hello world,I am Alitterman#
+
+<P>我之前是有了解过GitHub,创建了账号,但并不是会用,而经过这次在网站的学习我粗略的了解了git的用法,很喜欢这样一个赛事,很感谢举办方能给我们这些有爱好的人一个学习机会,实际上有些内容我已经了解过,但我会更加努力的去学习的QWQ</p>
